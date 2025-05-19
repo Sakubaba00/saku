@@ -1,465 +1,465 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RecTV_ssportplus" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="RecTV",S Sport Plus
+#EXTINF:-1 tvg-id="RecTV_ssportplus" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/226d5b2f3ab5c01698dff96b24b14629.jpg" group-title="RecTV",S Sport Plus
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/pl1.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_tabspor" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" group-title="RecTV",TABİİ SPOR
+#EXTINF:-1 tvg-id="RecTV_tabspor" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/19a35035f4b4f98c39f97ba07e44bc37.jpg" group-title="RecTV",TABİİ SPOR
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/tabi.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_beinsports1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png" group-title="RecTV",Bein Sports 1
+#EXTINF:-1 tvg-id="RecTV_beinsports1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png" group-title="RecTV",Bein Sports 1
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af96.workers.dev/static/bs1.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_beinsports2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/6e235279a86721ccf20f97237669c15b.png" group-title="RecTV",Bein Sports 2
+#EXTINF:-1 tvg-id="RecTV_beinsports2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/6e235279a86721ccf20f97237669c15b.png" group-title="RecTV",Bein Sports 2
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af96.workers.dev/static/bs2.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_beinsports3" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/cc82d1d3295bbdabd4b0f7ddaa0321b7.png" group-title="RecTV",Bein Sports 3
+#EXTINF:-1 tvg-id="RecTV_beinsports3" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/cc82d1d3295bbdabd4b0f7ddaa0321b7.png" group-title="RecTV",Bein Sports 3
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af96.workers.dev/static/bs3.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_beinsports4" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/2ff145f33c044ec8e7e11fdde18aa844.png" group-title="RecTV",Bein Sports 4
+#EXTINF:-1 tvg-id="RecTV_beinsports4" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/2ff145f33c044ec8e7e11fdde18aa844.png" group-title="RecTV",Bein Sports 4
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af96.workers.dev/static/bs4.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_beinsports5" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/abff4cbc62b84597225b664e0e9c64f1.png" group-title="RecTV",Bein Sports 5
+#EXTINF:-1 tvg-id="RecTV_beinsports5" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/abff4cbc62b84597225b664e0e9c64f1.png" group-title="RecTV",Bein Sports 5
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af96.workers.dev/static/bs5.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_beinsportsmax1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/45e029fab41029ba5aa986cf157ab30e.png" group-title="RecTV",Bein Sports Max 1
+#EXTINF:-1 tvg-id="RecTV_beinsportsmax1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/45e029fab41029ba5aa986cf157ab30e.png" group-title="RecTV",Bein Sports Max 1
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/bm1.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_beinsportsmax2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/e0de03768014baae665e79af69d5198f.png" group-title="RecTV",Bein Sports Max 2
+#EXTINF:-1 tvg-id="RecTV_beinsportsmax2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/e0de03768014baae665e79af69d5198f.png" group-title="RecTV",Bein Sports Max 2
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/bm2.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_ssport1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/29b3ca0f04190b3727b3d8255cbb5d2a.jpg" group-title="RecTV",S SPORT 1
+#EXTINF:-1 tvg-id="RecTV_ssport1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/29b3ca0f04190b3727b3d8255cbb5d2a.jpg" group-title="RecTV",S SPORT 1
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af96.workers.dev/static/ss11.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_ssport2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/46e2f65ec582fdbc8edfd01899eca2a1.jpg" group-title="RecTV",S SPORT 2
+#EXTINF:-1 tvg-id="RecTV_ssport2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/46e2f65ec582fdbc8edfd01899eca2a1.jpg" group-title="RecTV",S SPORT 2
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af96.workers.dev/static/ss2.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_sporsmart1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/e4e94b5f588beff702dfe39729379251.png" group-title="RecTV",Spor Smart 1
+#EXTINF:-1 tvg-id="RecTV_sporsmart1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/e4e94b5f588beff702dfe39729379251.png" group-title="RecTV",Spor Smart 1
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/smart1.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_sporsmart2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/cabc0eca8d8333d022305c01b433f367.png" group-title="RecTV",Spor Smart 2
+#EXTINF:-1 tvg-id="RecTV_sporsmart2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/cabc0eca8d8333d022305c01b433f367.png" group-title="RecTV",Spor Smart 2
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/smart2.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_eurosport1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/f40c9c2ad62bd4e3ff87d5859ea2bb54.jpg" group-title="RecTV",Euro Sport 1
+#EXTINF:-1 tvg-id="RecTV_eurosport1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/f40c9c2ad62bd4e3ff87d5859ea2bb54.jpg" group-title="RecTV",Euro Sport 1
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/euro1.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_eurosport2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/8802d4e354a9ca77d6aa3bbd8362e3e8.png" group-title="RecTV",Euro Sport 2
+#EXTINF:-1 tvg-id="RecTV_eurosport2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/8802d4e354a9ca77d6aa3bbd8362e3e8.png" group-title="RecTV",Euro Sport 2
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/euro2.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_tivibuspor1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/e0837009bbe1e595a7c7364aa45d02f7.jpg" group-title="RecTV",Tivibu Spor 1
+#EXTINF:-1 tvg-id="RecTV_tivibuspor1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/e0837009bbe1e595a7c7364aa45d02f7.jpg" group-title="RecTV",Tivibu Spor 1
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/t1.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_tivibuspor2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/8c23cd76a1f7c2b12ab4e757b45ca87f.jpg" group-title="RecTV",Tivibu Spor 2
+#EXTINF:-1 tvg-id="RecTV_tivibuspor2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/8c23cd76a1f7c2b12ab4e757b45ca87f.jpg" group-title="RecTV",Tivibu Spor 2
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/t2.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_tivibuspor3" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/2dd58a06227ac0410461a0be92123f12.jpg" group-title="RecTV",Tivibu Spor 3
+#EXTINF:-1 tvg-id="RecTV_tivibuspor3" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/2dd58a06227ac0410461a0be92123f12.jpg" group-title="RecTV",Tivibu Spor 3
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/t3.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_trtsporhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/c9aa0ea0e7cf2e4ec3523352f7dfd8ff.jpg" group-title="RecTV",Trt Spor HD
+#EXTINF:-1 tvg-id="RecTV_trtsporhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/c9aa0ea0e7cf2e4ec3523352f7dfd8ff.jpg" group-title="RecTV",Trt Spor HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://trt.daioncdn.net/trtspor/master.m3u8?app=web&
 
-#EXTINF:-1 tvg-id="RecTV_asporhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/b8582c521e6d1bf91ef06f34b7c58c37.jpg" group-title="RecTV",A Spor HD
+#EXTINF:-1 tvg-id="RecTV_asporhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/b8582c521e6d1bf91ef06f34b7c58c37.jpg" group-title="RecTV",A Spor HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_gstv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/155c62b2d55c69b9abbb2d9867adc1b8.jpg" group-title="RecTV",GS TV
+#EXTINF:-1 tvg-id="RecTV_gstv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/155c62b2d55c69b9abbb2d9867adc1b8.jpg" group-title="RecTV",GS TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_fbtv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/56c7f2499a5ba8bab88be9cebaedd6be.jpg" group-title="RecTV",FB TV
+#EXTINF:-1 tvg-id="RecTV_fbtv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/56c7f2499a5ba8bab88be9cebaedd6be.jpg" group-title="RecTV",FB TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_nbatv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/7b8b88c5d436a3cdecf4facb78342019.jpg" group-title="RecTV",Nba TV
+#EXTINF:-1 tvg-id="RecTV_nbatv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/7b8b88c5d436a3cdecf4facb78342019.jpg" group-title="RecTV",Nba TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://r14.af96.workers.dev/list/yayinnbatv.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_fightbox" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/4c02bd56395b0a27eab964656b1bb379.jpg" group-title="RecTV",FightBox
+#EXTINF:-1 tvg-id="RecTV_fightbox" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/4c02bd56395b0a27eab964656b1bb379.jpg" group-title="RecTV",FightBox
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/fight.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_sportstv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/d3fa136e0548a46e2b55393a00a93296.jpg" group-title="RecTV",Sports TV
+#EXTINF:-1 tvg-id="RecTV_sportstv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/d3fa136e0548a46e2b55393a00a93296.jpg" group-title="RecTV",Sports TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_trt1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/14f516e981f4bc0961c5a162665814bf.jpg" group-title="RecTV",TRT 1
+#EXTINF:-1 tvg-id="RecTV_trt1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/14f516e981f4bc0961c5a162665814bf.jpg" group-title="RecTV",TRT 1
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web&
 
-#EXTINF:-1 tvg-id="RecTV_startv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/9077322c9860d2cd30e3f5cc3d46d56d.jpg" group-title="RecTV",STAR TV
+#EXTINF:-1 tvg-id="RecTV_startv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/9077322c9860d2cd30e3f5cc3d46d56d.jpg" group-title="RecTV",STAR TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_kanald" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/7c5c8e0ca5549732e5ceda6fcc62748d.jpg" group-title="RecTV",KANAL D
+#EXTINF:-1 tvg-id="RecTV_kanald" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/7c5c8e0ca5549732e5ceda6fcc62748d.jpg" group-title="RecTV",KANAL D
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_showtv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/93eebff893a76defd8ab61fdb69943c3.jpg" group-title="RecTV",SHOW TV
+#EXTINF:-1 tvg-id="RecTV_showtv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/93eebff893a76defd8ab61fdb69943c3.jpg" group-title="RecTV",SHOW TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_atv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/50f26ac81150eb251be02f16e329d5ff.jpg" group-title="RecTV",ATV
+#EXTINF:-1 tvg-id="RecTV_atv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/50f26ac81150eb251be02f16e329d5ff.jpg" group-title="RecTV",ATV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_tv8hd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/33204f43b374b3d0b662a80afa712518.jpg" group-title="RecTV",TV 8 HD
+#EXTINF:-1 tvg-id="RecTV_tv8hd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/33204f43b374b3d0b662a80afa712518.jpg" group-title="RecTV",TV 8 HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_tv85" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/48ec74f19b2e7707d89f70ace71eae1c.jpg" group-title="RecTV",TV 8.5
+#EXTINF:-1 tvg-id="RecTV_tv85" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/48ec74f19b2e7707d89f70ace71eae1c.jpg" group-title="RecTV",TV 8.5
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/tv85.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_foxtv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/50824b68e8d4a1377f0d6ed9242d68d7.jpg" group-title="RecTV",FOX TV
+#EXTINF:-1 tvg-id="RecTV_foxtv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/50824b68e8d4a1377f0d6ed9242d68d7.jpg" group-title="RecTV",FOX TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_kanal7" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/9ebd243aafd11f7e8bd8409e04a13860.jpg" group-title="RecTV",KANAL 7
+#EXTINF:-1 tvg-id="RecTV_kanal7" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/9ebd243aafd11f7e8bd8409e04a13860.jpg" group-title="RecTV",KANAL 7
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_beyaztv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/f52aae2d29699a04cf4209cbe7367996.png" group-title="RecTV",BEYAZ TV
+#EXTINF:-1 tvg-id="RecTV_beyaztv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/f52aae2d29699a04cf4209cbe7367996.png" group-title="RecTV",BEYAZ TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_teve2hd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/2cf916833b3c64448b36830d2b238685.png" group-title="RecTV",TEVE 2 HD
+#EXTINF:-1 tvg-id="RecTV_teve2hd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/2cf916833b3c64448b36830d2b238685.png" group-title="RecTV",TEVE 2 HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_trthaberhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/d066e7368bc1ea6388e912650ec7354c.png" group-title="RecTV",TRT HABER HD
+#EXTINF:-1 tvg-id="RecTV_trthaberhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/d066e7368bc1ea6388e912650ec7354c.png" group-title="RecTV",TRT HABER HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_haberturkhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/8cc654161cccc4a0b183615672809444.jpg" group-title="RecTV",HABER TURK HD
+#EXTINF:-1 tvg-id="RecTV_haberturkhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/8cc654161cccc4a0b183615672809444.jpg" group-title="RecTV",HABER TURK HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_ahaberhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/dc748243e0ce52f5315946c0f26f50fe.jpg" group-title="RecTV",A HABER HD
+#EXTINF:-1 tvg-id="RecTV_ahaberhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/dc748243e0ce52f5315946c0f26f50fe.jpg" group-title="RecTV",A HABER HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/ahaber.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_cnnturkhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/59310b5017a91855a65fd3993f085710.jpg" group-title="RecTV",CNN TURK HD
+#EXTINF:-1 tvg-id="RecTV_cnnturkhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/59310b5017a91855a65fd3993f085710.jpg" group-title="RecTV",CNN TURK HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/cnnturk.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_ntvhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/fc2233de54eddcc4b38e07e8eedb8446.jpg" group-title="RecTV",NTV HD
+#EXTINF:-1 tvg-id="RecTV_ntvhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/fc2233de54eddcc4b38e07e8eedb8446.jpg" group-title="RecTV",NTV HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_24haberhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/a7ee2263901d79464e2249d0b23217cf.jpg" group-title="RecTV",24 HABER HD
+#EXTINF:-1 tvg-id="RecTV_24haberhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/a7ee2263901d79464e2249d0b23217cf.jpg" group-title="RecTV",24 HABER HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_bloomberghthd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/fe34ebd140199c087be663e2c57ceb2f.jpg" group-title="RecTV",BLOOMBERG HT HD
+#EXTINF:-1 tvg-id="RecTV_bloomberghthd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/fe34ebd140199c087be663e2c57ceb2f.jpg" group-title="RecTV",BLOOMBERG HT HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_halktv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/ba872632eff716bff680517fd72de5fd.jpg" group-title="RecTV",HALK TV
+#EXTINF:-1 tvg-id="RecTV_halktv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/ba872632eff716bff680517fd72de5fd.jpg" group-title="RecTV",HALK TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_haberglobal" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/aa5d0e853efaf9070117c772c4db6358.jpg" group-title="RecTV",HABER GLOBAL
+#EXTINF:-1 tvg-id="RecTV_haberglobal" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/aa5d0e853efaf9070117c772c4db6358.jpg" group-title="RecTV",HABER GLOBAL
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_tgrthaberhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/fb4488783f29ccc9b6873395f6c001bd.jpg" group-title="RecTV",TGRT HABER HD
+#EXTINF:-1 tvg-id="RecTV_tgrthaberhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/fb4488783f29ccc9b6873395f6c001bd.jpg" group-title="RecTV",TGRT HABER HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_lketvhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/f308a739f78540555d8b8819f785eb4f.jpg" group-title="RecTV",ÜLKE TV HD
+#EXTINF:-1 tvg-id="RecTV_lketvhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/f308a739f78540555d8b8819f785eb4f.jpg" group-title="RecTV",ÜLKE TV HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://www.youtube.com/watch?v=NtWcZDf5DZg
 
-#EXTINF:-1 tvg-id="RecTV_nationalgeohd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/666cbc1feac437aea3fc2c8218b9539e.jpg" group-title="RecTV",NATIONAL GEO HD
+#EXTINF:-1 tvg-id="RecTV_nationalgeohd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/666cbc1feac437aea3fc2c8218b9539e.jpg" group-title="RecTV",NATIONAL GEO HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_nationalgeowild" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/ae18d42e87a266954420b315bb23c749.jpg" group-title="RecTV",NATIONAL GEO WILD
+#EXTINF:-1 tvg-id="RecTV_nationalgeowild" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/ae18d42e87a266954420b315bb23c749.jpg" group-title="RecTV",NATIONAL GEO WILD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_historychannel" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/77f52eb67864c8f809626fa5c7d1bae6.png" group-title="RecTV",HISTORY CHANNEL
+#EXTINF:-1 tvg-id="RecTV_historychannel" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/77f52eb67864c8f809626fa5c7d1bae6.png" group-title="RecTV",HISTORY CHANNEL
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/history.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_bbcearthhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/9ed6faa15f968198d17c0362658f6b50.jpg" group-title="RecTV",BBC EARTH HD
+#EXTINF:-1 tvg-id="RecTV_bbcearthhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/9ed6faa15f968198d17c0362658f6b50.jpg" group-title="RecTV",BBC EARTH HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/bbc.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_tarhtv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/b61d518744b390174e6f672d7171107d.png" group-title="RecTV",TARİH TV
+#EXTINF:-1 tvg-id="RecTV_tarhtv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/b61d518744b390174e6f672d7171107d.png" group-title="RecTV",TARİH TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/tarihtv.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_docubox" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/d90ba2bcb80b997800fbe4824f1d71c6.png" group-title="RecTV",Docubox
+#EXTINF:-1 tvg-id="RecTV_docubox" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/d90ba2bcb80b997800fbe4824f1d71c6.png" group-title="RecTV",Docubox
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/docubox.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_tlc" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/08cd8548f90ea341ac8bf315ec5ab4f9.jpg" group-title="RecTV",TLC
+#EXTINF:-1 tvg-id="RecTV_tlc" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/08cd8548f90ea341ac8bf315ec5ab4f9.jpg" group-title="RecTV",TLC
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_dmaxhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/8c8f9b27a338d4b5713098251d9f5284.png" group-title="RecTV",DMAX HD
+#EXTINF:-1 tvg-id="RecTV_dmaxhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/8c8f9b27a338d4b5713098251d9f5284.png" group-title="RecTV",DMAX HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_yabantv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/717339637240b8d0ade5063ae8a18fcd.png" group-title="RecTV",YABAN TV
+#EXTINF:-1 tvg-id="RecTV_yabantv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/717339637240b8d0ade5063ae8a18fcd.png" group-title="RecTV",YABAN TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/yaban.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_discoverychannel" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/45a6752ed9a833b4d0303885092b8f54.png" group-title="RecTV",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="RecTV_discoverychannel" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/45a6752ed9a833b4d0303885092b8f54.png" group-title="RecTV",DISCOVERY CHANNEL
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/discovery.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_discoveryscience" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/a83bf94e67fe34718d644ed9da8ca82d.png" group-title="RecTV",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="RecTV_discoveryscience" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/a83bf94e67fe34718d644ed9da8ca82d.png" group-title="RecTV",DISCOVERY SCIENCE
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/discs.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_trtbelgeselhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/cee1ae3bfe067fe869b8e20c0272938b.jpg" group-title="RecTV",TRT BELGESEL HD
+#EXTINF:-1 tvg-id="RecTV_trtbelgeselhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/cee1ae3bfe067fe869b8e20c0272938b.jpg" group-title="RecTV",TRT BELGESEL HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_fxkanal" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/8fd173c2cc744c90bc96ba5627b0d816.jpg" group-title="RecTV",FX Kanalı
+#EXTINF:-1 tvg-id="RecTV_fxkanal" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/8fd173c2cc744c90bc96ba5627b0d816.jpg" group-title="RecTV",FX Kanalı
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://saran-live.ercdn.net/fx/index.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_moviesmartturk" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/771bc3c19a6cfa2187001771d74ba63c.jpg" group-title="RecTV",Moviesmart Turk
+#EXTINF:-1 tvg-id="RecTV_moviesmartturk" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/771bc3c19a6cfa2187001771d74ba63c.jpg" group-title="RecTV",Moviesmart Turk
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/mvturk.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_sinematv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/40b261b65aeef4696661f2b497c55c89.png" group-title="RecTV",Sinema TV
+#EXTINF:-1 tvg-id="RecTV_sinematv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/40b261b65aeef4696661f2b497c55c89.png" group-title="RecTV",Sinema TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/sinema.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_sinematv2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/389d982cb693a94e1c6aae2ee5e34594.png" group-title="RecTV",Sinema TV 2
+#EXTINF:-1 tvg-id="RecTV_sinematv2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/389d982cb693a94e1c6aae2ee5e34594.png" group-title="RecTV",Sinema TV 2
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/sinema2.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_sinematvaksiyon" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/11ae72baa495a639e5193cbed5fd92da.png" group-title="RecTV",Sinema TV Aksiyon
+#EXTINF:-1 tvg-id="RecTV_sinematvaksiyon" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/11ae72baa495a639e5193cbed5fd92da.png" group-title="RecTV",Sinema TV Aksiyon
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/sinemaaksiyon.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_sinematvkomedi" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/bb0d39dbbdee543eb42f4e77fd30c324.png" group-title="RecTV",Sinema TV Komedi
+#EXTINF:-1 tvg-id="RecTV_sinematvkomedi" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/bb0d39dbbdee543eb42f4e77fd30c324.png" group-title="RecTV",Sinema TV Komedi
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/sinemakomedi.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_sinematvyerli" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/aefea49a94d29d26305b35ffd21ca4e7.png" group-title="RecTV",Sinema TV Yerli
+#EXTINF:-1 tvg-id="RecTV_sinematvyerli" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/aefea49a94d29d26305b35ffd21ca4e7.png" group-title="RecTV",Sinema TV Yerli
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/sinemayerli.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_sinematvaile" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/5959572ddb15da121258c8eaa756f7c9.png" group-title="RecTV",Sinema TV Aile
+#EXTINF:-1 tvg-id="RecTV_sinematvaile" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/5959572ddb15da121258c8eaa756f7c9.png" group-title="RecTV",Sinema TV Aile
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/sinemaaile.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_sinematv1001" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/8c31ff828bc07a09eb52fb8312f23abb.png" group-title="RecTV",Sinema TV 1001
+#EXTINF:-1 tvg-id="RecTV_sinematv1001" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/8c31ff828bc07a09eb52fb8312f23abb.png" group-title="RecTV",Sinema TV 1001
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/sinema1001.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_sinematv1002" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/96603c9e4ba10ae864380f670e210cf0.png" group-title="RecTV",Sinema TV 1002
+#EXTINF:-1 tvg-id="RecTV_sinematv1002" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/96603c9e4ba10ae864380f670e210cf0.png" group-title="RecTV",Sinema TV 1002
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/sinema1002.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_dreamtrktvhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/9756196c45fab27cf682ca813c12ceee.png" group-title="RecTV",DREAM TÜRK TV HD
+#EXTINF:-1 tvg-id="RecTV_dreamtrktvhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/9756196c45fab27cf682ca813c12ceee.png" group-title="RecTV",DREAM TÜRK TV HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_trtmuzikhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/08508325378853b59bcb51a2451cb872.jpg" group-title="RecTV",TRT MUZIK HD
+#EXTINF:-1 tvg-id="RecTV_trtmuzikhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/08508325378853b59bcb51a2451cb872.jpg" group-title="RecTV",TRT MUZIK HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_powerturkhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/3817afb79e408b0a106a2c1c51281de9.jpg" group-title="RecTV",POWER TURK HD
+#EXTINF:-1 tvg-id="RecTV_powerturkhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/3817afb79e408b0a106a2c1c51281de9.jpg" group-title="RecTV",POWER TURK HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_powertvhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/8610a3cb93710691265a4b50e76bf57d.jpg" group-title="RecTV",POWER TV HD
+#EXTINF:-1 tvg-id="RecTV_powertvhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/8610a3cb93710691265a4b50e76bf57d.jpg" group-title="RecTV",POWER TV HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_nr1turkhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/6a1816b24244ae99036e04ea13af3663.jpg" group-title="RecTV",NR1 TURK HD
+#EXTINF:-1 tvg-id="RecTV_nr1turkhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/6a1816b24244ae99036e04ea13af3663.jpg" group-title="RecTV",NR1 TURK HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_number1hd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/7160f6b2568df0a9d1da11f02c1f866b.jpg" group-title="RecTV",Number 1 HD
+#EXTINF:-1 tvg-id="RecTV_number1hd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/7160f6b2568df0a9d1da11f02c1f866b.jpg" group-title="RecTV",Number 1 HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_cartonnetwork" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/1a8262974a202c19d6543b82335e39de.jpg" group-title="RecTV",CARTON NETWORK
+#EXTINF:-1 tvg-id="RecTV_cartonnetwork" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/1a8262974a202c19d6543b82335e39de.jpg" group-title="RecTV",CARTON NETWORK
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/cartoonnetwork.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_nickelodeonhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/4a6d8c2049dd4c014cd443a9cd411f3b.png" group-title="RecTV",Nickelodeon HD
+#EXTINF:-1 tvg-id="RecTV_nickelodeonhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/4a6d8c2049dd4c014cd443a9cd411f3b.png" group-title="RecTV",Nickelodeon HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_davincilearning" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/30ba57a0576414dcd86aef719e92edb0.jpg" group-title="RecTV",DA VINCI LEARNING
+#EXTINF:-1 tvg-id="RecTV_davincilearning" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/30ba57a0576414dcd86aef719e92edb0.jpg" group-title="RecTV",DA VINCI LEARNING
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/davinci.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_disneyjr" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/4a33046f4748f1d987b710da68d7b58f.png" group-title="RecTV",Disney JR
+#EXTINF:-1 tvg-id="RecTV_disneyjr" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/4a33046f4748f1d987b710da68d7b58f.png" group-title="RecTV",Disney JR
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_lovenature" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/c34095b97dc3f94306666eec346defb8.png" group-title="RecTV",LOVE NATURE
+#EXTINF:-1 tvg-id="RecTV_lovenature" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/c34095b97dc3f94306666eec346defb8.png" group-title="RecTV",LOVE NATURE
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/lovenature.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_viasathistory" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/8ea2619561935fed906ee2278d5fa961.png" group-title="RecTV",VIASAT HISTORY
+#EXTINF:-1 tvg-id="RecTV_viasathistory" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/8ea2619561935fed906ee2278d5fa961.png" group-title="RecTV",VIASAT HISTORY
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/viasathistory.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_kontv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/da2883f3f44910691413d14b610a698f.png" group-title="RecTV",KON TV
+#EXTINF:-1 tvg-id="RecTV_kontv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/da2883f3f44910691413d14b610a698f.png" group-title="RecTV",KON TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://kontv.blutv.com/blutv_kontv2/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_szctv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/d2b37e56c23f53095350038e36c1c8ce.png" group-title="RecTV",SÖZCÜ TV
+#EXTINF:-1 tvg-id="RecTV_szctv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/d2b37e56c23f53095350038e36c1c8ce.png" group-title="RecTV",SÖZCÜ TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://ythls.kekikakademi.org/youtube/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_bengtrk" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/cad74c9ef922f64138434a3ebb0980be.jpg" group-title="RecTV",BENGÜTÜRK
+#EXTINF:-1 tvg-id="RecTV_bengtrk" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/cad74c9ef922f64138434a3ebb0980be.jpg" group-title="RecTV",BENGÜTÜRK
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_tv100" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/54ebd649dea5b3654544975b9352f100.png" group-title="RecTV",TV 100
+#EXTINF:-1 tvg-id="RecTV_tv100" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/54ebd649dea5b3654544975b9352f100.png" group-title="RecTV",TV 100
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_trt2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/614e1863861a3dbba1b1e107367b3e53.jpg" group-title="RecTV",TRT 2
+#EXTINF:-1 tvg-id="RecTV_trt2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/614e1863861a3dbba1b1e107367b3e53.jpg" group-title="RecTV",TRT 2
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_tv4" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpeg/e97aaf070fbc2858ecabd8625f360eb2.jpeg" group-title="RecTV",TV4
+#EXTINF:-1 tvg-id="RecTV_tv4" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpeg/e97aaf070fbc2858ecabd8625f360eb2.jpeg" group-title="RecTV",TV4
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 http://65.108.239.207:8080/stream/tvplus/tv4hd/master.m3u8?u=admin&p=3910fe48bd4ea4cbf297cd9007805bd5ea7025f1e66cb7d0be50057f6cd788b1&
 
-#EXTINF:-1 tvg-id="RecTV_trttrk" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/45fd54765eebb0b4e708c7448a2c8a93.jpg" group-title="RecTV",TRT TÜRK
+#EXTINF:-1 tvg-id="RecTV_trttrk" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/45fd54765eebb0b4e708c7448a2c8a93.jpg" group-title="RecTV",TRT TÜRK
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://trtturk.blutv.com/blutv_trtturk2/live_720p2000000kbps/index.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_trtavaz" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/c1e29a27bff35f6c081fe9b7103953b8.jpg" group-title="RecTV",TRT AVAZ
+#EXTINF:-1 tvg-id="RecTV_trtavaz" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/c1e29a27bff35f6c081fe9b7103953b8.jpg" group-title="RecTV",TRT AVAZ
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_semerkandtv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/8ac54924b9791ceedab2f302d9fe2946.jpg" group-title="RecTV",SEMERKAND TV
+#EXTINF:-1 tvg-id="RecTV_semerkandtv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/8ac54924b9791ceedab2f302d9fe2946.jpg" group-title="RecTV",SEMERKAND TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 http://65.108.239.207:8080/stream/tvplus/semerkandhd/master.m3u8?u=admin&p=3910fe48bd4ea4cbf297cd9007805bd5ea7025f1e66cb7d0be50057f6cd788b1&
 
-#EXTINF:-1 tvg-id="RecTV_tvbuspor4" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/921670222d56e1af5cde5b3474185425.jpg" group-title="RecTV",TİVİBU SPOR 4
+#EXTINF:-1 tvg-id="RecTV_tvbuspor4" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/921670222d56e1af5cde5b3474185425.jpg" group-title="RecTV",TİVİBU SPOR 4
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/t4.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_trtsporyildiz" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/jpg/ddc793321e06b9f205e7b99ebca71e4b.jpg" group-title="RecTV",TRT SPOR YILDIZ
+#EXTINF:-1 tvg-id="RecTV_trtsporyildiz" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/ddc793321e06b9f205e7b99ebca71e4b.jpg" group-title="RecTV",TRT SPOR YILDIZ
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
 
-#EXTINF:-1 tvg-id="RecTV_fashiontv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://c.prectv47.lol/uploads/cache/channel_thumb/uploads/png/0ae3cc600b74755cd008b1695c274f3c.png" group-title="RecTV",FASHION TV
+#EXTINF:-1 tvg-id="RecTV_fashiontv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/0ae3cc600b74755cd008b1695c274f3c.png" group-title="RecTV",FASHION TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
