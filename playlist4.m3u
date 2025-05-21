@@ -294,15 +294,45 @@ https://tv1.arectv30.sbs/live/discs.m3u8
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="RecTV_fxkanal" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/8fd173c2cc744c90bc96ba5627b0d816.jpg" group-title="RecTV",FX Kanalı
+#EXTINF:-1 tvg-id="RecTV_bsaction1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/1883f1dfa1e69b6788849eaab4b1f8e7.png" group-title="RecTV",BS ACTION 1
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://saran-live.ercdn.net/fx/index.m3u8
+https://tv1.arectv30.sbs/live/bsaction1.m3u8
+
+#EXTINF:-1 tvg-id="RecTV_bsturk" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/b2d030cf4ca567bf7c8358b15c8177a9.png" group-title="RecTV",BS TURK
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/bsturk.m3u8
+
+#EXTINF:-1 tvg-id="RecTV_bsfamily" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/a2f7541d9a7a2947275ba3b3d3b6cb47.png" group-title="RecTV",BS FAMILY
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/bsfamily.m3u8
+
+#EXTINF:-1 tvg-id="RecTV_bsstars" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/45d92ce49a65dd1e9823a55694fe2a7e.png" group-title="RecTV",BS STARS
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/bsstars.m3u8
+
+#EXTINF:-1 tvg-id="RecTV_bspremier" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/05607925151ae07d26cdf2c93b99e006.png" group-title="RecTV",BS PREMIER
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/bspremier1.m3u8
+
+#EXTINF:-1 tvg-id="RecTV_bsboxoffce1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/a5e035e5aad903052fdb35a3a7984518.jpg" group-title="RecTV",BS BOX OFFİCE 1
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/box1.m3u8
 
 #EXTINF:-1 tvg-id="RecTV_moviesmartturk" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/771bc3c19a6cfa2187001771d74ba63c.jpg" group-title="RecTV",Moviesmart Turk
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/mvturk.m3u8
+
+#EXTINF:-1 tvg-id="RecTV_fxkanal" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/6c4faa576fe3d2fe9e850efd5c57005d.jpg" group-title="RecTV",FX Kanalı
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://saran-live.ercdn.net/fx/index.m3u8
 
 #EXTINF:-1 tvg-id="RecTV_sinematv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/40b261b65aeef4696661f2b497c55c89.png" group-title="RecTV",Sinema TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
