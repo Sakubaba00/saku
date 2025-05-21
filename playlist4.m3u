@@ -324,6 +324,16 @@ https://tv1.arectv30.sbs/live/bspremier1.m3u8
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/box1.m3u8
 
+#EXTINF:-1 tvg-id="RecTV_bsboxoffce2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/aec5f81a9d58714b840be9a285928224.png" group-title="RecTV",BS BOX OFFİCE 2
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/box2.m3u8
+
+#EXTINF:-1 tvg-id="RecTV_bsboxoffce3" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/7c52499be2693a149616127f02cc633a.png" group-title="RecTV",BS BOX OFFİCE 3
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/box3.m3u8
+
 #EXTINF:-1 tvg-id="RecTV_moviesmartturk" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/771bc3c19a6cfa2187001771d74ba63c.jpg" group-title="RecTV",Moviesmart Turk
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
