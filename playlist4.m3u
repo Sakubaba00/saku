@@ -12,27 +12,27 @@ https://tv1.arectv30.sbs/live/tabi.m3u8
 #EXTINF:-1 tvg-id="RecTV_beinsports1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/b93455fe6c92f337a2e330b2d468d564.png" group-title="RecTV",Bein Sports 1
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af96.workers.dev/static/bs1.m3u8
+https://8.arectv30.sbs/static/bs1.m3u8
 
 #EXTINF:-1 tvg-id="RecTV_beinsports2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/6e235279a86721ccf20f97237669c15b.png" group-title="RecTV",Bein Sports 2
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af96.workers.dev/static/bs2.m3u8
+https://8.arectv30.sbs/static/bs2.m3u8
 
 #EXTINF:-1 tvg-id="RecTV_beinsports3" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/cc82d1d3295bbdabd4b0f7ddaa0321b7.png" group-title="RecTV",Bein Sports 3
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af96.workers.dev/static/bs3.m3u8
+https://8.arectv30.sbs/static/bs3.m3u8
 
 #EXTINF:-1 tvg-id="RecTV_beinsports4" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/2ff145f33c044ec8e7e11fdde18aa844.png" group-title="RecTV",Bein Sports 4
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af96.workers.dev/static/bs4.m3u8
+https://8.arectv30.sbs/static/bs4.m3u8
 
 #EXTINF:-1 tvg-id="RecTV_beinsports5" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/abff4cbc62b84597225b664e0e9c64f1.png" group-title="RecTV",Bein Sports 5
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af96.workers.dev/static/bs5.m3u8
+https://8.arectv30.sbs/static/bs5.m3u8
 
 #EXTINF:-1 tvg-id="RecTV_beinsportsmax1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/45e029fab41029ba5aa986cf157ab30e.png" group-title="RecTV",Bein Sports Max 1
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
@@ -47,12 +47,12 @@ https://tv1.arectv30.sbs/live/bm2.m3u8
 #EXTINF:-1 tvg-id="RecTV_ssport1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/29b3ca0f04190b3727b3d8255cbb5d2a.jpg" group-title="RecTV",S SPORT 1
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af96.workers.dev/static/ss11.m3u8
+https://8.arectv30.sbs/static/ss11.m3u8
 
 #EXTINF:-1 tvg-id="RecTV_ssport2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/46e2f65ec582fdbc8edfd01899eca2a1.jpg" group-title="RecTV",S SPORT 2
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af96.workers.dev/static/ss2.m3u8
+https://8.arectv30.sbs/static/ss2.m3u8
 
 #EXTINF:-1 tvg-id="RecTV_sporsmart1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/png/e4e94b5f588beff702dfe39729379251.png" group-title="RecTV",Spor Smart 1
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
@@ -112,7 +112,7 @@ https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RecTV_nbatv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/7b8b88c5d436a3cdecf4facb78342019.jpg" group-title="RecTV",Nba TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af96.workers.dev/list/yayinnbatv.m3u8
+https://8.arectv30.sbs/list/yayinnbatv.m3u8
 
 #EXTINF:-1 tvg-id="RecTV_fightbox" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://a.prectv48.lol/uploads/cache/channel_thumb/uploads/jpg/4c02bd56395b0a27eab964656b1bb379.jpg" group-title="RecTV",FightBox
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
