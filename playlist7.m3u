@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Spor_beINSPORTS1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://sakultah.org/1/image/02.png" group-title="Spor ",beIN SPORTS 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://main.uxsyplayer425b9907af.click/
+https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports1/playlist.m3u8
+#EXTINF:-1 tvg-id="Spor_beINSPORTS2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://sakultah.org/1/image/03.png" group-title="Spor ",beIN SPORTS 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://main.uxsyplayer425b9907af.click/
+https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports2/playlist.m3u8
+#EXTINF:-1 tvg-id="Spor_beINSPORTS3" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://sakultah.org/1/image/04.png" group-title="Spor ",beIN SPORTS 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://main.uxsyplayer425b9907af.click/
+https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports3/playlist.m3u8
+#EXTINF:-1 tvg-id="Spor_beINSPORTS4" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://sakultah.org/1/image/05.png" group-title="Spor ",beIN SPORTS 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://main.uxsyplayer425b9907af.click/
+https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports4/playlist.m3u8
+#EXTINF:-1 tvg-id="Spor_beINSPORTS5" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://sakultah.org/1/image/06.png" group-title="Spor ",beIN SPORTS 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://main.uxsyplayer425b9907af.click/
+https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsports5/playlist.m3u8
+#EXTINF:-1 tvg-id="Spor_beINSPORTSMax1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://sakultah.org/1/image/07.png" group-title="Spor ",beIN SPORTS Max 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://main.uxsyplayer425b9907af.click/
+https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsportsmax1/playlist.m3u8
+#EXTINF:-1 tvg-id="Spor_beINSPORTSMax2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://sakultah.org/1/image/08.png" group-title="Spor ",beIN SPORTS Max 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://main.uxsyplayer425b9907af.click/
+https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukbeinsportsmax2/playlist.m3u8
+#EXTINF:-1 tvg-id="Spor_TRTSPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://sakultah.org/1/image/013.png" group-title="Spor ",TRT SPOR HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://main.uxsyplayer425b9907af.click/
+https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuktrtspor/playlist.m3u8
+#EXTINF:-1 tvg-id="Spor_ASPOR" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://sakultah.org/1/image/015.png" group-title="Spor ",A SPOR HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://main.uxsyplayer425b9907af.click/
+https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukaspor/playlist.m3u8
+#EXTINF:-1 tvg-id="Spor_SSPORT1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://sakultah.org/1/image/09.png" group-title="Spor ",S SPORT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://main.uxsyplayer425b9907af.click/
+https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukssport/playlist.m3u8
+#EXTINF:-1 tvg-id="Spor_SSPORT2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://sakultah.org/1/image/010.png" group-title="Spor ",S SPORT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://main.uxsyplayer425b9907af.click/
+https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukssport2/playlist.m3u8
+#EXTINF:-1 tvg-id="Spor_TivibuSpor1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://sakultah.org/1/image/016.png" group-title="Spor ",Tivibu Spor 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://main.uxsyplayer425b9907af.click/
+https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuktivibuspor1/playlist.m3u8
+#EXTINF:-1 tvg-id="Spor_TivibuSpor2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://sakultah.org/1/image/017.png" group-title="Spor ",Tivibu Spor 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://main.uxsyplayer425b9907af.click/
+https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuktivibuspor2/playlist.m3u8
+#EXTINF:-1 tvg-id="Spor_TivibuSpor3" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://sakultah.org/1/image/018.png" group-title="Spor ",Tivibu Spor 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://main.uxsyplayer425b9907af.click/
+https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuktivibuspor3/playlist.m3u8
+#EXTINF:-1 tvg-id="Spor_TivibuSpor4" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://sakultah.org/1/image/019.png" group-title="Spor ",Tivibu Spor 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://main.uxsyplayer425b9907af.click/
+https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuktivibuspor4/playlist.m3u8
+#EXTINF:-1 tvg-id="Spor_NBATV" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://sakultah.org/1/image/020.png" group-title="Spor ",NBA TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://main.uxsyplayer425b9907af.click/
+https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuknbatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Spor_EuroSport1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://sakultah.org/1/image/021.png" group-title="Spor ",Euro Sport 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://main.uxsyplayer425b9907af.click/
+https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukeurosport1/playlist.m3u8
+#EXTINF:-1 tvg-id="Spor_EuroSport2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://sakultah.org/1/image/022.png" group-title="Spor ",Euro Sport 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://main.uxsyplayer425b9907af.click/
+https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcukeurosport2/playlist.m3u8
+#EXTINF:-1 tvg-id="Spor_SporSmart1" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://sakultah.org/1/image/023.png" group-title="Spor ",Spor Smart 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://main.uxsyplayer425b9907af.click/
+https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuksmartspor/playlist.m3u8
+#EXTINF:-1 tvg-id="Spor_SporSmart2" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://sakultah.org/1/image/024.png" group-title="Spor ",Spor Smart 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://main.uxsyplayer425b9907af.click/
+https://alpha.cf-worker-44bbce7cf541bc.workers.dev/live/selcuksmartspor2/playlist.m3u8
