@@ -10,6 +10,7 @@
   <li>Playlist4 = REC TV yayınları m3u8</li>
   <li>Playlist5 = Kablo net + TRGoals yayınları m3u8</li>
   <li>Playlist6 = Youtube yayınları m3u8</li>
+  <li>Playlist7 = Selçuk Sports yayınları m3u8</li>
 </ol>
 
 <h2>📄 Lisans</h2>
