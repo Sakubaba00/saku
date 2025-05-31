@@ -97,7 +97,7 @@ https://trt.daioncdn.net/trtspor/master.m3u8?app=web&
 #EXTINF:-1 tvg-id="RecTV_asporhd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/b8582c521e6d1bf91ef06f34b7c58c37.jpg" group-title="RecTV",A Spor HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+https://tv.arectv31.sbs/live/aspor.m3u8
 
 #EXTINF:-1 tvg-id="RecTV_gstv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/155c62b2d55c69b9abbb2d9867adc1b8.jpg" group-title="RecTV",GS TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
@@ -142,12 +142,12 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 tvg-id="RecTV_showtv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/93eebff893a76defd8ab61fdb69943c3.jpg" group-title="RecTV",SHOW TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://ciner-live.daioncdn.net/showtv/showtv_720p.m3u8
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
 #EXTINF:-1 tvg-id="RecTV_atv" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/50f26ac81150eb251be02f16e329d5ff.jpg" group-title="RecTV",ATV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://trkvz-live.daioncdn.net/atv/atv.m3u8
+https://tv.arectv31.sbs/live/atv.m3u8
 
 #EXTINF:-1 tvg-id="RecTV_tv8hd" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://m.prectv49.sbs/uploads/cache/channel_thumb/uploads/jpg/33204f43b374b3d0b662a80afa712518.jpg" group-title="RecTV",TV 8 HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
